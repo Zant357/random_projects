@@ -1,4 +1,4 @@
-# random_projects
+# Personal Chat Server
 
 can download piles and run locally
 
